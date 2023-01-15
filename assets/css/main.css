@@ -125,7 +125,7 @@ h1 strong, h2 strong, h3 strong, h4 strong, h5 strong, h6 strong {
 }
 
 h2 {
-  font-size: 2.85em;
+  font-size: 2em;
 }
 
 h3 {
@@ -2112,6 +2112,11 @@ body.homepage.is-preload #header:after {
 }
 .carousel article p {
   text-align: center;
+}
+.carousel header {
+  display: flex;
+  justify-content: center;
+  padding: 15px 0;
 }
 
 /* Wide */
