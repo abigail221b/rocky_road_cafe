@@ -834,13 +834,18 @@
 		padding: 1.5em 0 1.5em 0;
 		z-index: 1;
 		overflow: hidden;
+		display: flex;
+		justify-content: center;
+
 
 		> ul {
 			line-height: 0px;
 			position: relative;
-			display: inline-block;
-			margin: 0;
-			height: 21px;
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			height: 65px;
+			margin: 10px 0;
 			border-left: solid 1px rgba(192, 192, 192, 0.35);
 			border-right: solid 1px rgba(192, 192, 192, 0.35);
 
