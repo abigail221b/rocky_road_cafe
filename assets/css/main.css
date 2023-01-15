@@ -1945,8 +1945,8 @@ body.homepage.is-preload #header:after {
   padding: 4.5em 0 4.5em 0;
   margin-bottom: 0;
 }
-#banner header > p {
-  margin-bottom: 0;
+#banner header {
+  margin: 7% 13%;
 }
 
 /* Content */
