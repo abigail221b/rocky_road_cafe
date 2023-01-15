@@ -1765,6 +1765,7 @@ header .icon.circled {
   color: #fff;
   font-size: 3.5em;
   line-height: 1em;
+  text-shadow: 5px 5px 10px black;
 }
 #header h1 a {
   color: inherit;
