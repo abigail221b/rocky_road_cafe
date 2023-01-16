@@ -1006,6 +1006,25 @@
 			padding-top: 2em;
 		}
 
+		section {
+			#coffee-menu-list {
+				display: grid;
+				grid-template-columns: repeat(2, 1fr);
+				font-family: Arvo;
+				font-weight: bold;
+			}
+
+			.item {
+				display: flex;
+				flex-direction: column;
+				border: 1px solid pink;
+
+				p {
+					padding: 0;
+				}
+			}
+		}
+
 		#menu-item-category-links {
 
 			ul {
