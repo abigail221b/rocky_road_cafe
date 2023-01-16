@@ -1017,10 +1017,9 @@
 			.item {
 				display: flex;
 				flex-direction: column;
-				border: 1px solid pink;
 
 				p {
-					padding: 0;
+					line-height: 0.5em;
 				}
 			}
 		}
