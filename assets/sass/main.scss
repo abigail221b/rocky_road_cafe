@@ -1007,7 +1007,7 @@
 		}
 
 		section {
-			#coffee-menu-list, #tea-menu-list {
+			#coffee-menu-list, #tea-menu-list, #baked-goods-menu-list {
 				display: grid;
 				grid-template-columns: repeat(2, 1fr);
 				font-family: Arvo;
@@ -1021,6 +1021,14 @@
 
 				p {
 					line-height: 0.5em;
+				}
+
+				p.multi-line-item-name {
+					line-height: 1.25em;
+
+					span {
+						font-family: 'Source Sans Pro', sans-serif;
+					}
 				}
 			}
 		}
