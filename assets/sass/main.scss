@@ -253,6 +253,8 @@
 		margin: 0 auto;
 		max-width: 100%;
 		width: 1400px;
+		display: flex;
+		justify-content: center;
 
 		@include breakpoint('<=wide') {
 			width: 1200px;
@@ -998,6 +1000,7 @@
 
 	#main {
 		margin-bottom: 0;
+		max-width: 800px;
 
 		section:first-of-type {
 			padding-top: 2em;
