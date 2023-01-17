@@ -12,7 +12,7 @@
 		<link rel="stylesheet" href="<?php echo get_bloginfo("template_directory"); ?>/style.css" />
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
 	</head>
-	<body class="homepage is-preload">
+	<body class="left-sidebar is-preload">
 		<div id="page-wrapper"><!-- Scripts -->
             <!-- Header -->
 				<?php get_header(); ?>
