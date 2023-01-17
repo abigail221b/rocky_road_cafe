@@ -32,7 +32,10 @@
 
 				<!-- Nav -->
 					<nav id="nav">
-						<?php wp_nav_menu( array( 'theme_location' => 'header-menu' ) ); ?>
+					<?php wp_nav_menu( array(
+						"theme_location" => "header-menu",
+						"container" => "ul"
+					) ); ?>
 					</nav>
 
 				</div>
