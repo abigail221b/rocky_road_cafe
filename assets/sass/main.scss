@@ -810,6 +810,7 @@
 				font-size: 4em;
 			}
 
+			/*
 			&:after {
 				content: '';
 				background: #1C0920;
@@ -822,7 +823,7 @@
 				opacity: 0;
 				@include vendor('transition', 'opacity 2.5s ease-in-out');
 				@include vendor('transition-delay', '0.5s');
-			}
+			} */
 		}
 
 		&.is-preload {
