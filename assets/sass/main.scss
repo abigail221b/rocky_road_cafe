@@ -756,15 +756,22 @@
 			}
 		}
 
-		h1 {
+		h1, h2 {
 			color: #fff;
-			font-size: 3.5em;
 			line-height: 1em;
 			text-shadow: 5px 5px 10px black;
 
 			a {
 				color: inherit;
 			}
+		}
+
+		h1 {
+			font-size: 3.5em;
+		}
+
+		h2 {
+			font-size: 2em;
 		}
 
 		.button {
