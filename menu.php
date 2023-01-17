@@ -28,7 +28,7 @@
 					<!-- Nav -->
 					<nav id="nav">
 						<ul>
-							<li><a href="gallery.php">Gallery</a></li>
+							<li><a href="gallery.php">Gallery</a>Gallery</a></li>
 							<li>
 								<a href="menu.php">Menu</a>
 								<ul>
