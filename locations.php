@@ -28,9 +28,9 @@
 					<!-- Nav -->
 						<nav id="nav">
 							<ul>
-								<li><a href="gallery.html">Gallery</a></li>
+								<li><a href="gallery.php">Gallery</a></li>
 								<li>
-									<a href="menu.html">Menu</a>
+									<a href="menu.php">Menu</a>
 									<ul>
 										<li><a href="#">Lorem ipsum dolor</a></li>
 										<li><a href="#">Magna phasellus</a></li>
@@ -48,13 +48,13 @@
 									</ul>
 								</li>
 								<li><a href="index.php"><img src="<?php echo get_bloginfo("template_directory"); ?>/images/logo.png" width="115px" /></a></li>
-								<li><a href="blog.html">Blog</a></li>
+								<li><a href="blog.php">Blog</a></li>
 								<li>
-									<a href="about.html">About Us</a>
+									<a href="about.php">About Us</a>
 									<ul>
-										<li><a href="about.html">Our Story</a></li>
-										<li><a href="locations.html">Locations</a></li>
-										<li><a href="contact.html">Contact Us</a></li>
+										<li><a href="about.php">Our Story</a></li>
+										<li><a href="locations.php">Locations</a></li>
+										<li><a href="contact.php">Contact Us</a></li>
 									</ul>
 								</li>
 							</ul>
