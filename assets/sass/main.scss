@@ -904,6 +904,17 @@
 				> ul {
 					display: none;
 				}
+
+				&.menu-item-17 {
+					a {
+						width: 115px;
+						height: 115px;
+						background-image: url("./images/logo.png");
+						background-size: 115px 115px;
+						color:rgba(0,0,0,0);
+						font-size: 0;
+					}
+				}
 			}
 		}
 	}
