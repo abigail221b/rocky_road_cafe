@@ -1,4 +1,4 @@
-<div id="header">
+<div id="header" style="background-image: url('<?php echo get_bloginfo("template_directory"); ?>/images/header.jpg')">
 
         <!-- Inner -->
             <div class="inner">
