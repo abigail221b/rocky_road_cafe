@@ -3,7 +3,7 @@
         <!-- Inner -->
             <div class="inner">
                 <header>
-                    <h2><a href="index.php" id="logo">Rocky Road Cafe</a></h2>
+                    <h2><a href="index.php" id="logo"><?php echo the_title(); ?></a></h2>
                 </header>
             </div>
 
