@@ -21,7 +21,7 @@
 					<!-- Inner -->
 						<div class="inner">
 							<header>
-								<h1><a href="index.html" id="logo">Rocky Road Cafe</a></h1>
+								<h1><a href="index.php" id="logo">Rocky Road Cafe</a></h1>
 								<hr />
 								<p>Another fine freebie by HTML5 UP</p>
 							</header>
@@ -52,7 +52,7 @@
 										<li><a href="#">Veroeros feugiat</a></li>
 									</ul>
 								</li>
-								<li><a href="index.html"><img src="./images/logo.png" width="115px" /></a></li>
+								<li><a href="index.php"><img src="./images/logo.png" width="115px" /></a></li>
 								<li><a href="blog.html">Blog</a></li>
 								<li>
 									<a href="about.html">About Us</a>
