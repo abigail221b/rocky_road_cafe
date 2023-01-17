@@ -14,6 +14,7 @@
 
         <!-- Nav -->
             <nav id="nav">
+                <?php wp_nav_menu( array( 'theme_location' => 'header-menu' ) ); ?>
                 <ul>
                     <li><a href="gallery.php">Gallery</a></li>
                     <li>
