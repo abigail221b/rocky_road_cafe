@@ -886,15 +886,37 @@
 	}
 
 	#secondary-header {
-		height: 75px;
-		background-color: red;
+		padding: 10px;
 		display: flex;
 		justify-content: space-between;
+		background-color: #2B252C;
+		color: white;
+
+		h2 {
+			color: white;
+		}
+
+		#brand {
+			display: flex;
+			align-items: center;
+			gap: 10px;
+		}
 
 		#nav {
-			background-color: pink;
 			display: flex;
 			justify-content: center;
+			align-items: flex-end;
+			padding: 0;
+
+			ul {
+				display: flex;
+
+				li {
+					padding: 0;
+					border: none;
+				}
+
+			}
 		}
 	}
 
