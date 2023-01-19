@@ -17,6 +17,13 @@
             <!-- Header -->
 				<?php get_template_part("secondary-header"); ?>
 
+			<!-- Main -->
+			<div class="wrapper style1">
+				<div class="container">
+
+				</div>
+			</div>
+
             <!-- Footer -->
 				<?php get_footer(); ?>
 
