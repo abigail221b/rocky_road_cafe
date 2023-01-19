@@ -1,4 +1,5 @@
-<div id="header">
+<div id="secondary-header">
+
         <!-- Nav -->
             <nav id="nav">
                 <?php wp_nav_menu( array(
