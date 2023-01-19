@@ -15,7 +15,7 @@
 	<body class="left-sidebar is-preload">
 		<div id="page-wrapper"><!-- Scripts -->
             <!-- Header -->
-				<?php get_header(); ?>
+				<?php get_template_part("secondary-header"); ?>
 
             <!-- Footer -->
 				<?php get_footer(); ?>
