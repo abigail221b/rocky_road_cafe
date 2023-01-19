@@ -2,8 +2,10 @@
 
         <!-- Cafe Name and Logo -->
         <div id="brand">
-            <img src="<?php echo get_bloginfo("template_directory"); ?>/images/logo.png" width="75px" />
-            <h2><a href="">Rocky Road Cafe</a></h2>
+            <a href="<?php echo get_site_url(); ?>">
+                <img src="<?php echo get_bloginfo("template_directory"); ?>/images/logo.png" width="75px" />
+                <h2>Rocky Road Cafe</h2>
+            </a>
         </div>
 
         <!-- Nav -->

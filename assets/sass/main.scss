@@ -897,9 +897,11 @@
 		}
 
 		#brand {
-			display: flex;
-			align-items: center;
-			gap: 10px;
+			a {
+				display: flex;
+				align-items: center;
+				gap: 10px;
+			}
 		}
 
 		#nav {
