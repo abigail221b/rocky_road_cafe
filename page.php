@@ -20,7 +20,10 @@
 			<!-- Main -->
 			<div class="wrapper style1">
 				<div class="container">
+					<article id="main">
+						<?php the_content(); ?>
 
+					</div>
 				</div>
 			</div>
 
