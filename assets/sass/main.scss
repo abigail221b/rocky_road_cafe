@@ -1143,6 +1143,19 @@
 		}
 	}
 
+	/* Groups in Menu page: Coffee, Tea, Baked Goods...etc. */
+	.menu-items-group {
+		padding-bottom: 50px;
+
+		.menu-items-row {
+			display: flex;
+			flex-wrap: wrap;
+			justify-content: flex-start;
+			gap: 30px;
+		}
+	}
+
+
 /* Footer */
 
 	#footer {
