@@ -304,7 +304,6 @@
 	}
 
 	.coffee-row {
-		border: 1px solid black;
 		display: flex;
 		justify-content: space-between;
 		width: 100%;
@@ -1118,6 +1117,29 @@
 					border-color: #fff;
 				}
 			}
+		}
+
+	}
+
+	#blog-posts {
+		width: 100%;
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: space-between;
+
+		.post-preview {
+			display: flex;
+			flex-direction: column;
+			width: 350px;
+		}
+	}
+
+	#post {
+		width: 100%;
+		display: flex;
+
+		figure img {
+			width: 600px;
 		}
 	}
 
