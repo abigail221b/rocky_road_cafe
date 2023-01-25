@@ -11,7 +11,7 @@
         <!-- Nav -->
             <nav id="nav">
                 <?php wp_nav_menu( array(
-                    "theme_location" => "header-menu",
+                    "theme_location" => "secondary-header-menu",
                     "container" => "ul"
                 ) ); ?>
             </nav>
