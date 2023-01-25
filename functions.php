@@ -3,6 +3,7 @@ function register_my_menus() {
     register_nav_menus(
       array(
         'header-menu' => __( 'Header Menu' ),
+        'secondary-header-menu' => __( 'Secondary Header Menu')
        )
      );
 }
