@@ -23,7 +23,7 @@
 						<header>
 							<h1><a href="index.php" id="logo">Rocky Road Cafe</a></h1>
 							<hr />
-							<p>Another fine freebie by HTML5 UP</p>
+							<p>Where every sip is a smooth ride</p>
 						</header>
 						<footer>
 							<a href="<?php get_bloginfo("template-directory"); ?>/menu" class="button">Our Menu</a>
