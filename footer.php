@@ -25,12 +25,10 @@
                 <!-- Copyright -->
                     <div class="copyright">
                         <ul class="menu">
-                            <li>Design based on: <a href="http://html5up.net">HTML5 UP</a></li>
+                            <li>Design based on <a href="https://html5up.net/helios">Helios</a> on <a href="http://html5up.net">HTML5 UP</a> templates.</li>
                         </ul>
                     </div>
-
             </div>
-
         </div>
     </div>
 </div>
