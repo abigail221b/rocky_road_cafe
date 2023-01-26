@@ -1152,6 +1152,31 @@
 			padding: 25px 0;
 		}
 
+		.category-header {
+			display: flex;
+			flex-wrap: nowrap;
+			align-items: center;
+			padding-bottom: 50px;
+
+			.header-text {
+				display: flex;
+				height: 30px;
+				padding: 0 25px;
+				justify-content: center;
+				align-items: center;
+				border-left: 1px solid #2b252c;
+				border-right: 1px solid #2b252c;
+			}
+
+			.before, .after {
+				border-top: 1px solid #2b252c;
+				border-bottom: 1px solid #2b252c;
+				height: 5px;
+				width: 100%;
+			}
+
+		}
+
 		.menu-items-row {
 			display: flex;
 			flex-wrap: wrap;
