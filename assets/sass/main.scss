@@ -1202,6 +1202,12 @@
 		background: #2b252c;
 		color: #fff;
 
+		.row {
+			display: flex;
+			justify-content: space-evenly;
+			margin-top: 30px;
+		}
+
 		.icon.circled {
 			background: #fff;
 			color: #2b252c;
