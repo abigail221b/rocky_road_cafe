@@ -116,9 +116,21 @@
 						<div id="testimonials">
 							<div class="blockquote">
 								<h1>
-									<span style="color: #e74848">Rocky Road is my happy place!</span> The staff is so friendly and the food is always delicious. I can't get enough of the homemade cookies."
+									Rocky Road is like a second home to me. I'm pretty sure the staff knows my order by heart, and I'm not even mad about it.
 								</h1>
-								<h4>&mdash;Sarah L.<br><em>Our new loyal customer</em></h4>
+								<h4>&mdash;Johnson E.</h4>
+							</div>
+							<div class="blockquote">
+								<h1>
+									I've gained 10 pounds since I discovered this place, but it's worth it!
+								</h1>
+								<h4>&mdash;Emily W.<br><em>Our new loyal customer</em></h4>
+							</div>
+							<div class="blockquote">
+								<h1>
+									I came for the coffee, but stayed for the ambiance. The decor here is straight out of my Pinterest board.
+								</h1>
+								<h4>&mdash;Susie B.</h4>
 							</div>
 						</div>
 					</article>
