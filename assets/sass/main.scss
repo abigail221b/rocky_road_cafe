@@ -218,7 +218,7 @@
 		}
 
 		/* Blockquote header */
-		.blockquote h1 {
+		.blockquote h3 {
 			font-family: 'Arvo', cursive;
 			position: relative; /* for pseudos */
 			color: #1f1920;
@@ -233,7 +233,7 @@
 		}
 
 		/* Blockquote right double quotes */
-		.blockquote h1:after {
+		.blockquote h3:after {
 			content:"";
 			position: absolute;
 			border: 2px solid #e74848;
@@ -247,7 +247,7 @@
 			z-index: 3;
 		}
 
-		.blockquote h1:before {
+		.blockquote h3:before {
 			content:"";
 			position: absolute;
 			width: 80px;
@@ -259,9 +259,9 @@
 
 		/* increase header size after 600px */
 		@media all and (min-width: 600px) {
-			.blockquote h1 {
-				font-size: 3rem;
-				line-height: 1.2;
+			.blockquote h3 {
+				font-size: 2rem;
+				line-height: 1.30;
 			}
 
 		}
@@ -278,6 +278,8 @@
 			z-index: 1;
 			margin-left:150px;
 			padding-left:12px;
+			font-family: 'Source Sans Pro';
+			font-style: italic;
 		}
 
 		.blockquote h4:first-letter {
