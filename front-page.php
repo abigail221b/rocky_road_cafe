@@ -138,6 +138,7 @@
 				</div>
 
 			<!-- Features -->
+			<!--
 				<div class="wrapper style1">
 
 					<section id="features" class="container special">
@@ -148,6 +149,7 @@
 					</section>
 
 				</div>
+			-->
 
 			<!-- Footer -->
 				<?php get_footer(); ?>
