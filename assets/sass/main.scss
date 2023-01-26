@@ -780,15 +780,16 @@
 			font-size: 2em;
 		}
 
-		.button {
-			display: inline-block;
-			width: 4.5em;
-			height: 2.5em;
-			line-height: 2.5em;
-			text-align: center;
-			font-size: 1.25em;
-			padding: 0;
-			box-shadow: 5px 5px 10px black;
+		footer {
+			display: flex;
+			justify-content: center;
+
+			.button {
+				display: flex;
+				padding: 10px 15px;
+				font-family: Arvo;
+				box-shadow: 5px 5px 10px black;
+			}
 		}
 
 		hr {
@@ -857,6 +858,7 @@
 					border-radius: 0.5em;
 					padding: 0.85em;
 					border: solid 1px transparent;
+					text-transform: capitalize;
 					@include vendor('transition', ('color 0.35s ease-in-out', 'border-color 0.35s ease-in-out'));
 
 					&.active {
