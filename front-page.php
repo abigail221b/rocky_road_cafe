@@ -53,7 +53,23 @@
 						<h2>Featured Menu Items</h2>
 					</header>
 
-					<div class="reel">
+					<div class="reel" style="overflow: visible; transform: translate(0px, 0px);">
+
+						<article>
+							<a href="#" class="image featured"><img src="<?php echo get_bloginfo("template_directory"); ?>/images/pic01.jpg" alt="" /></a>
+							<header>
+								<h3><a href="#">Fermentum sagittis proin</a></h3>
+							</header>
+							<p>Commodo id natoque malesuada sollicitudin elit suscipit magna.</p>
+						</article>
+
+						<article>
+							<a href="#" class="image featured"><img src="<?php echo get_bloginfo("template_directory"); ?>/images/pic01.jpg" alt="" /></a>
+							<header>
+								<h3><a href="#">Fermentum sagittis proin</a></h3>
+							</header>
+							<p>Commodo id natoque malesuada sollicitudin elit suscipit magna.</p>
+						</article>
 
 						<article>
 							<a href="#" class="image featured"><img src="<?php echo get_bloginfo("template_directory"); ?>/images/pic01.jpg" alt="" /></a>
@@ -136,14 +152,14 @@
 		</div>
 
 		<!-- Scripts -->
-			<script src="assets/js/jquery.min.js"></script>
-			<script src="assets/js/jquery.dropotron.min.js"></script>
-			<script src="assets/js/jquery.scrolly.min.js"></script>
-			<script src="assets/js/jquery.scrollex.min.js"></script>
-			<script src="assets/js/browser.min.js"></script>
-			<script src="assets/js/breakpoints.min.js"></script>
-			<script src="assets/js/util.js"></script>
-			<script src="assets/js/main.js"></script>
+			<script src="<?php echo get_bloginfo("template_directory"); ?>/assets/js/jquery.min.js"></script>
+			<script src="<?php echo get_bloginfo("template_directory"); ?>/assets/js/jquery.dropotron.min.js"></script>
+			<script src="<?php echo get_bloginfo("template_directory"); ?>/assets/js/jquery.scrolly.min.js"></script>
+			<script src="<?php echo get_bloginfo("template_directory"); ?>/assets/js/jquery.scrollex.min.js"></script>
+			<script src="<?php echo get_bloginfo("template_directory"); ?>/assets/js/browser.min.js"></script>
+			<script src="<?php echo get_bloginfo("template_directory"); ?>/assets/js/breakpoints.min.js"></script>
+			<script src="<?php echo get_bloginfo("template_directory"); ?>/assets/js/util.js"></script>
+			<script src="<?php echo get_bloginfo("template_directory"); ?>/assets/js/main.js"></script>
 
 	</body>
 </html>
