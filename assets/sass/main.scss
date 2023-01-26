@@ -197,6 +197,9 @@
 
 	/* style by Juan Pablo from https://freefrontend.com/css-quote-styles/ */
 	#testimonials {
+		display: flex;
+		justify-content: space-around;
+		flex-wrap: wrap;
 
 		/* center the blockquote in the page */
 		.blockquote-wrapper {
@@ -266,7 +269,7 @@
 		/* Blockquote subheader */
 		.blockquote h4 {
 			position: relative;
-			color: black;
+			color: #1f1920;
 			font-size: 1.3rem;
 			font-weight: 400;
 			line-height: 1.2;
