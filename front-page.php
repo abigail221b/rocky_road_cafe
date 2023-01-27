@@ -58,41 +58,41 @@
 						<article>
 							<a href="#" class="image featured"><img src="<?php echo get_bloginfo("template_directory"); ?>/images/pic01.jpg" width="300" height="225" /></a>
 							<header>
-								<h3><a href="#">Fermentum sagittis proin</a></h3>
+								<h3><a href="#">Brown Sugar Cinnamon Muffins</a></h3>
 							</header>
-							<p>Commodo id natoque malesuada sollicitudin elit suscipit magna.</p>
+							<p>Delicious and moist muffins made with a blend of brown sugar and cinnamon, perfect for a sweet breakfast or snack</p>
 						</article>
 
 						<article>
 							<a href="#" class="image featured"><img src="<?php echo get_bloginfo("template_directory"); ?>/images/pic02.jpg" width="300" height="225" /></a>
 							<header>
-								<h3><a href="#">Fermentum sagittis proin</a></h3>
+								<h3><a href="#">Soft Pretzels</a></h3>
 							</header>
-							<p>Commodo id natoque malesuada sollicitudin elit suscipit magna.</p>
+							<p>Delicious and moist muffins made with a blend of brown sugar and cinnamon, perfect for a sweet breakfast or snack</p>
 						</article>
 
 						<article>
 							<a href="#" class="image featured"><img src="<?php echo get_bloginfo("template_directory"); ?>/images/pic03.jpg" width="300" height="225" /></a>
 							<header>
-								<h3><a href="#">Fermentum sagittis proin</a></h3>
+								<h3><a href="#">Matcha Latte</a></h3>
 							</header>
-							<p>Commodo id natoque malesuada sollicitudin elit suscipit magna.</p>
+							<p>A popular and refreshing latte made with matcha green tea powder, steamed milk, and a sweetener of your choice</p>
 						</article>
 
 						<article>
 							<a href="#" class="image featured"><img src="<?php echo get_bloginfo("template_directory"); ?>/images/pic04.jpg" width="300" height="225" /></a>
 							<header>
-								<h3><a href="#">Fermentum sagittis proin</a></h3>
+								<h3><a href="#">Roasted Vegetable Medley</a></h3>
 							</header>
-							<p>Commodo id natoque malesuada sollicitudin elit suscipit magna.</p>
+							<p>A hearty sandwich made with a mix of roasted vegetables, such as bell peppers, zucchini, and onions, and served on a toasted bun</p>
 						</article>
 
 						<article>
 							<a href="#" class="image featured"><img src="<?php echo get_bloginfo("template_directory"); ?>/images/pic05.jpg" width="300" height="225" /></a>
 							<header>
-								<h3><a href="#">Varius magnis sollicitudin</a></h3>
+								<h3><a href="#">Black Bean Patty Sandwich</a></h3>
 							</header>
-							<p>Commodo id natoque malesuada sollicitudin elit suscipit magna.</p>
+							<p>A vegan-friendly sandwich made with a patty made from black beans, topped with avocado, lettuce, and tomato, on a toasted bun.</p>
 						</article>
 					</div>
 				</section>
