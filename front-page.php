@@ -56,7 +56,7 @@
 					<div class="reel" style="overflow: visible; transform: translate(0px, 0px);">
 
 						<article>
-							<a href="#" class="image featured"><img src="<?php echo get_bloginfo("template_directory"); ?>/images/pic01.jpg" alt="" /></a>
+							<a href="#" class="image featured"><img src="<?php echo get_bloginfo("template_directory"); ?>/images/pic01.jpg" width="300" height="225" /></a>
 							<header>
 								<h3><a href="#">Fermentum sagittis proin</a></h3>
 							</header>
@@ -64,7 +64,7 @@
 						</article>
 
 						<article>
-							<a href="#" class="image featured"><img src="<?php echo get_bloginfo("template_directory"); ?>/images/pic01.jpg" alt="" /></a>
+							<a href="#" class="image featured"><img src="<?php echo get_bloginfo("template_directory"); ?>/images/pic02.jpg" width="300" height="225" /></a>
 							<header>
 								<h3><a href="#">Fermentum sagittis proin</a></h3>
 							</header>
@@ -72,7 +72,7 @@
 						</article>
 
 						<article>
-							<a href="#" class="image featured"><img src="<?php echo get_bloginfo("template_directory"); ?>/images/pic01.jpg" alt="" /></a>
+							<a href="#" class="image featured"><img src="<?php echo get_bloginfo("template_directory"); ?>/images/pic03.jpg" width="300" height="225" /></a>
 							<header>
 								<h3><a href="#">Fermentum sagittis proin</a></h3>
 							</header>
@@ -80,7 +80,7 @@
 						</article>
 
 						<article>
-							<a href="#" class="image featured"><img src="<?php echo get_bloginfo("template_directory"); ?>/images/pic01.jpg" alt="" /></a>
+							<a href="#" class="image featured"><img src="<?php echo get_bloginfo("template_directory"); ?>/images/pic04.jpg" width="300" height="225" /></a>
 							<header>
 								<h3><a href="#">Fermentum sagittis proin</a></h3>
 							</header>
@@ -88,15 +88,7 @@
 						</article>
 
 						<article>
-							<a href="#" class="image featured"><img src="<?php echo get_bloginfo("template_directory"); ?>/images/pic01.jpg" alt="" /></a>
-							<header>
-								<h3><a href="#">Varius magnis sollicitudin</a></h3>
-							</header>
-							<p>Commodo id natoque malesuada sollicitudin elit suscipit magna.</p>
-						</article>
-
-						<article>
-							<a href="#" class="image featured"><img src="<?php echo get_bloginfo("template_directory"); ?>/images/pic01.jpg" alt="" /></a>
+							<a href="#" class="image featured"><img src="<?php echo get_bloginfo("template_directory"); ?>/images/pic05.jpg" width="300" height="225" /></a>
 							<header>
 								<h3><a href="#">Varius magnis sollicitudin</a></h3>
 							</header>
