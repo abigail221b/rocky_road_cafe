@@ -1629,6 +1629,17 @@
 				}
 			}
 
+		/* About us opening paragraph with logo */
+		.about-opening-paragraph {
+			display: block;
+
+			figure {
+				display: flex;
+				justify-content: center;
+				margin-bottom: 15px;
+			}
+		}
+
 		/* Image */
 
 			.image {
