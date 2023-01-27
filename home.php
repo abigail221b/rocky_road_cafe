@@ -21,6 +21,9 @@
 			<div class="wrapper style1">
 				<div class="container">
 					<article id="main">
+						<header>
+							<h1>Our Blog</h1>
+						</header>
 						<div id="blog-posts">
 						<?php if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>
 							<div class="post-preview">
