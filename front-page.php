@@ -68,7 +68,7 @@
 							<header>
 								<h3><a href="#">Soft Pretzels</a></h3>
 							</header>
-							<p>Delicious and moist muffins made with a blend of brown sugar and cinnamon, perfect for a sweet breakfast or snack</p>
+							<p>A classic and delicious snack made from dough twisted into a knot shape and then baked. Served with a side of cheese sauce or mustard for dipping</p>
 						</article>
 
 						<article>
