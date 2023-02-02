@@ -33,14 +33,15 @@
             <!-- Footer -->
 				<?php get_footer(); ?>
 
-			<script src="assets/js/jquery.min.js"></script>
-			<script src="assets/js/jquery.dropotron.min.js"></script>
-			<script src="assets/js/jquery.scrolly.min.js"></script>
-			<script src="assets/js/jquery.scrollex.min.js"></script>
-			<script src="assets/js/browser.min.js"></script>
-			<script src="assets/js/breakpoints.min.js"></script>
-			<script src="assets/js/util.js"></script>
-			<script src="assets/js/main.js"></script>
+			<!-- Scripts -->
+			<script src="<?php echo get_bloginfo("template_directory"); ?>/assets/js/jquery.min.js"></script>
+			<script src="<?php echo get_bloginfo("template_directory"); ?>/assets/js/jquery.dropotron.min.js"></script>
+			<script src="<?php echo get_bloginfo("template_directory"); ?>/assets/js/jquery.scrolly.min.js"></script>
+			<script src="<?php echo get_bloginfo("template_directory"); ?>/assets/js/jquery.scrollex.min.js"></script>
+			<script src="<?php echo get_bloginfo("template_directory"); ?>/assets/js/browser.min.js"></script>
+			<script src="<?php echo get_bloginfo("template_directory"); ?>/assets/js/breakpoints.min.js"></script>
+			<script src="<?php echo get_bloginfo("template_directory"); ?>/assets/js/util.js"></script>
+			<script src="<?php echo get_bloginfo("template_directory"); ?>/assets/js/main.js"></script>
         </div>
 	</body>
 </html>
