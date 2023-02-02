@@ -865,9 +865,12 @@
 
 			.button {
 				display: flex;
+				justify-content: center;
 				padding: 10px 15px;
 				font-family: Arvo;
 				box-shadow: 5px 5px 10px black;
+				width: auto;
+				height: auto;
 			}
 		}
 
@@ -970,6 +973,7 @@
 			}
 		}
 	}
+
 
 	#secondary-header {
 		padding: 10px;
