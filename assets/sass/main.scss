@@ -1294,8 +1294,6 @@
 		.row {
 			margin: 0;
 			display: flex;
-			flex-wrap: nowrap;
-			justify-content: space-between;
 			margin-top: 30px;
 
 			div {
@@ -1952,6 +1950,14 @@
 			#footer {
 				padding-left: 1em;
 				padding-right: 1em;
+
+				.row {
+					div {
+						width: 100%;
+						padding: 0;
+						padding-bottom: 20px;
+					}
+				}
 			}
 
 		/* Carousel */
