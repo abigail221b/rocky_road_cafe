@@ -106,7 +106,40 @@
 							<h2>What our customers say about us...</h2>
 						</header>
 						<div id="testimonials">
+							<figure class="snip1157">
+								<blockquote> Rocky Road is like a second home to me. I'm pretty sure the staff knows my order by heart, and I'm not even mad about it.
+									<div class="arrow"></div>
+								</blockquote>
+								<div class="footer">
+									<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/331810/sq-sample3.jpg" alt="sq-sample3" />
+									<div class="author">
+										<h5>Emily W.</h5>
+									</div>
+								</div>
 
+							</figure>
+							<figure class="snip1157 hover">
+								<blockquote> I've gained 10 pounds since I discovered this place, but it's worth it!
+									<div class="arrow"></div>
+								</blockquote>
+								<div class="footer">
+									<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/331810/sq-sample27.jpg" alt="sq-sample27" />
+									<div class="author">
+										<h5>Johnson E.</h5>
+									</div>
+								</div>
+							</figure>
+							<figure class="snip1157">
+								<blockquote> Rocky Road is my happy place! The staff is friendly and the food is delicious. I can't get enough of the homemade cookies.
+									<div class="arrow"></div>
+								</blockquote>
+								<div class="footer">
+									<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/331810/sq-sample17.jpg" alt="sq-sample17" />
+									<div class="author">
+										<h5>Susie S.</h5>
+									</div>
+								</div>
+							</figure>
 						</div>
 					</article>
 
