@@ -20,15 +20,15 @@
                 Friday....................................6am-9pm<br>
                 Saturday & Sunday............7am-8pm
             </div>
-
-            <div class="col-12">
-                <!-- Copyright -->
-                    <div class="copyright">
-                        <ul class="menu">
-                            <li>Design based on <a href="https://html5up.net/helios">Helios</a> on <a href="http://html5up.net">HTML5 UP</a> templates.</li>
-                        </ul>
-                    </div>
+            <div class="col-4">
+                <h3>Site Map</h3><br>
+                <a href="#">Home</a>
+                <a href="#">Menu</a>
+                <a href="#">Gallery</a>
+                <a href="#">Blog</a>
+                <a href="#">About us</a>
             </div>
+        </div>
         </div>
     </div>
 </div>
