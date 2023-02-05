@@ -98,7 +98,7 @@
 				</section>
 
 			<!-- Main -->
-				<div class="wrapper style2">
+				<div class="wrapper style2"  style="background-image: url('<?php echo get_bloginfo("template_directory"); ?>/images/bcg.jpg'); background-attachment: fixed;">
 
 					<article id="main" class="container special">
 						<a href="#" class="image featured"><img src="images/pic06.jpg" alt="" /></a>
