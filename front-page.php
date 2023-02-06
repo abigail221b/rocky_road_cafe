@@ -105,7 +105,7 @@
 						<header>
 							<h2>What our customers say about us...</h2>
 						</header>
-						<section id="reviews">
+						<section id="guest-reviews">
 
 						</section>
 					</article>
