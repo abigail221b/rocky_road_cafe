@@ -1169,30 +1169,7 @@
 
 
 		section {
-			#coffee-menu-list, #tea-menu-list, #baked-goods-menu-list, #sandwich-menu-list {
-				display: grid;
-				grid-template-columns: repeat(2, 1fr);
-				font-family: Arvo;
-				font-weight: bold;
-				gap: 50px;
-			}
 
-			.item {
-				display: flex;
-				flex-direction: column;
-
-				p {
-					line-height: 0.5em;
-				}
-
-				p.multi-line-item-name {
-					line-height: 1.25em;
-
-					span {
-						font-family: 'Source Sans Pro', sans-serif;
-					}
-				}
-			}
 		}
 
 		#menu-item-category-links {
