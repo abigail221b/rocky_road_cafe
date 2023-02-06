@@ -105,7 +105,7 @@
 						<header>
 							<h2>What our customers say about us...</h2>
 						</header>
-						<div id="testimonials">
+						<section id="reviews">
 							<figure class="snip1157">
 								<blockquote> Rocky Road is like a second home to me. I'm pretty sure the staff knows my order by heart, and I'm not even mad about it.
 									<div class="arrow"></div>
@@ -140,7 +140,7 @@
 									</div>
 								</div>
 							</figure>
-						</div>
+						</section>
 					</article>
 
 				</div>
