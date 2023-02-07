@@ -40,13 +40,6 @@
 
 				</div>
 
-			<!-- Banner -->
-				<section id="banner">
-					<header>
-						<h2>We serve fair-trade, organic, locally roasted coffee. Our food are made fresh in-house. You can count on us to fuel the rest of your day!</h2>
-					</header>
-				</section>
-
 			<!-- Carousel -->
 				<section class="carousel">
 					<header>
