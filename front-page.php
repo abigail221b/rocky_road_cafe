@@ -98,15 +98,46 @@
 				</section>
 
 			<!-- Main -->
-				<div class="wrapper style2"  style="background-image: url('<?php echo get_bloginfo("template_directory"); ?>/images/bcg.jpg'); background-attachment: fixed;">
-
+				<div class="wrapper style2">
 					<article id="main" class="container special">
 						<a href="#" class="image featured"><img src="images/pic06.jpg" alt="" /></a>
 						<header>
-							<h2>What our customers say about us...</h2>
+							<h2>What our guests say about us...</h2>
 						</header>
 						<section id="guest-reviews">
-
+							<figure class="snip1574">
+								<img src="<?php echo get_bloginfo("template_directory"); ?>/images/pic07.jpg" alt="profile-sample2" />
+								<figcaption>
+									<blockquote>
+									<p>The food is always delicious and the staff is so friendly. A must-visit in the area!</p>
+									</blockquote>
+									<h3>- Peter G.</h3>
+								</figcaption>
+							</figure>
+							<figure class="snip1574"><img src="<?php echo get_bloginfo("template_directory"); ?>/images/pic08.jpg" alt="profile-sample7" />
+								<figcaption>
+									<blockquote>
+									<p>The atmosphere is cozy and inviting. Perfect for a relaxing brunch with friends.</p>
+									</blockquote>
+									<h3>- Joe S.</h3>
+								</figcaption>
+							</figure>
+							<figure class="snip1574"><img src="<?php echo get_bloginfo("template_directory"); ?>/images/pic09.jpg" alt="profile-sample6" />
+								<figcaption>
+									<blockquote>
+									<p>I had the best sandwich of my life here. Can't wait to come back and try something new. </p>
+									</blockquote>
+									<h3>- Glenn Q.</h3>
+								</figcaption>
+							</figure>
+							<figure class="snip1574"><img src="<?php echo get_bloginfo("template_directory"); ?>/images/pic10.jpg" alt="profile-sample7" />
+								<figcaption>
+									<blockquote>
+									<p>Best coffee in town! I love coming here for my morning fix.</p>
+									</blockquote>
+									<h3>- Cleveland B.</h3>
+								</figcaption>
+								</figure>
 						</section>
 					</article>
 
