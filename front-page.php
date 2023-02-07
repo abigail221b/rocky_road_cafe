@@ -98,49 +98,47 @@
 				</section>
 
 			<!-- Main -->
-				<div class="wrapper style2"  style="background-image: url('<?php echo get_bloginfo("template_directory"); ?>/images/bcg.jpg'); background-attachment: fixed;">
-
+				<div class="wrapper style2">
 					<article id="main" class="container special">
 						<a href="#" class="image featured"><img src="images/pic06.jpg" alt="" /></a>
 						<header>
-							<h2>What our customers say about us...</h2>
+							<h2>What our guests say about us...</h2>
 						</header>
-						<div id="testimonials">
-							<figure class="snip1157">
-								<blockquote> Rocky Road is like a second home to me. I'm pretty sure the staff knows my order by heart, and I'm not even mad about it.
-									<div class="arrow"></div>
-								</blockquote>
-								<div class="footer">
-									<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/331810/sq-sample3.jpg" alt="sq-sample3" />
-									<div class="author">
-										<h5>Emily W.</h5>
-									</div>
-								</div>
-
+						<section id="guest-reviews">
+							<figure class="snip1574">
+								<img src="<?php echo get_bloginfo("template_directory"); ?>/images/pic07.jpg" alt="profile-sample2" />
+								<figcaption>
+									<blockquote>
+									<p>The food is always delicious and the staff is so friendly. A must-visit in the area!</p>
+									</blockquote>
+									<h3>- Peter G.</h3>
+								</figcaption>
 							</figure>
-							<figure class="snip1157 hover">
-								<blockquote> I've gained 10 pounds since I discovered this place, but it's worth it!
-									<div class="arrow"></div>
-								</blockquote>
-								<div class="footer">
-									<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/331810/sq-sample27.jpg" alt="sq-sample27" />
-									<div class="author">
-										<h5>Johnson E.</h5>
-									</div>
-								</div>
+							<figure class="snip1574"><img src="<?php echo get_bloginfo("template_directory"); ?>/images/pic08.jpg" alt="profile-sample7" />
+								<figcaption>
+									<blockquote>
+									<p>The atmosphere is cozy and inviting. Perfect for a relaxing brunch with friends.</p>
+									</blockquote>
+									<h3>- Joe S.</h3>
+								</figcaption>
 							</figure>
-							<figure class="snip1157">
-								<blockquote> Rocky Road is my happy place! The staff is friendly and the food is delicious. I can't get enough of the homemade cookies.
-									<div class="arrow"></div>
-								</blockquote>
-								<div class="footer">
-									<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/331810/sq-sample17.jpg" alt="sq-sample17" />
-									<div class="author">
-										<h5>Susie S.</h5>
-									</div>
-								</div>
+							<figure class="snip1574"><img src="<?php echo get_bloginfo("template_directory"); ?>/images/pic09.jpg" alt="profile-sample6" />
+								<figcaption>
+									<blockquote>
+									<p>I had the best sandwich of my life here. Can't wait to come back and try something new. </p>
+									</blockquote>
+									<h3>- Glenn Q.</h3>
+								</figcaption>
 							</figure>
-						</div>
+							<figure class="snip1574"><img src="<?php echo get_bloginfo("template_directory"); ?>/images/pic10.jpg" alt="profile-sample7" />
+								<figcaption>
+									<blockquote>
+									<p>Best coffee in town! I love coming here for my morning fix.</p>
+									</blockquote>
+									<h3>- Cleveland B.</h3>
+								</figcaption>
+								</figure>
+						</section>
 					</article>
 
 				</div>
